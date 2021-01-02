@@ -7,6 +7,7 @@ os:
 language: node_js
 
 node_js:
+  - 15
   - 13
   - 12
   - 10
